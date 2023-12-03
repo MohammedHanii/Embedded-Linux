@@ -1,0 +1,10 @@
+#! bin/bash
+cd /home/mohammed
+mkdir myDirectory
+cd ./myDirectory
+mkdir SecondDirectory
+cd ./SecondDirectory
+touch myNotePaper
+cp myNotePaper /home/mohammed/myDirectory
+cd ../
+mv myNotePaper myOldNotePaper
