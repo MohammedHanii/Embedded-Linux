@@ -1,0 +1,11 @@
+Q(4) :
+c - for files:rw-rw-rw-
+    for directories:rwxrwxrwx
+e - sudo command and root
+
+Q(6) : 
+"x" Permission for file :
+   allows viewing the file.
+
+"x" Permission for directories :
+    allows listing the contents of the directory.
